@@ -10,7 +10,7 @@ HTML & CSS
 
 # Screenshots
 
-<link href="REC-20240619153151.mp4"/>
+<img src="ceramic-01.png"/>
 
 
 # Deployment 
