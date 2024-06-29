@@ -13,7 +13,7 @@ HTML & CSS
 <img src="ceramic-01.png"/>
 <img src="ceramic-02.png"/>
 <img src="ceramic-03.png"/>
-<img src="ceramics-04.png"/>
+<img src="ceramics-scrn.png"/>
 <img src="ceramic-05.png"/>
 
 
